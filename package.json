@@ -8,6 +8,7 @@
     "keywords" : [
         "png"
     ],
+    "license": "MIT",
     "engines": {
         "node": "0.8.x"
     },
